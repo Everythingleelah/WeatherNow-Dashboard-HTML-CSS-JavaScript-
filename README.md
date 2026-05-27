@@ -83,4 +83,4 @@ Ideas for taking this further:
 
 ## License
 
-MIT — free to use, fork, and modify.
+MIT: free to use, fork, and modify.
